@@ -37,6 +37,7 @@ public class LoginPage extends BaseClass{
 		pass.sendKeys(password);
 		login.click();
 		System.out.println("LoginPage TC created by SonaliTester");
+		System.out.println("LoginPage2 TC created by NikhilTester");
 		
 	}
 	
