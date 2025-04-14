@@ -36,6 +36,8 @@ public class LoginPage extends BaseClass{
 		email.sendKeys(Email);
 		pass.sendKeys(password);
 		login.click();
+		System.out.println("LoginPage TC created by SonaliTester");
+		
 	}
 	
 	
